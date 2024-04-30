@@ -6,3 +6,6 @@
 
 
 # 2. Teams
+![image](https://github.com/SeungOkOH/Weather-Bigdata-Contest/assets/152361965/d2181261-ddfa-43f1-9980-f65c5c36da05)
+(https://github.com/wldms25)
+#### Jieun Shin (신지은)
