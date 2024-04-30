@@ -11,4 +11,9 @@
 #### Jieun Shin (신지은)
 
 * 연세대학교 대기과학과 해양방
-* 1번 하실?
+* 엘리트
+
+[![Hey-soo's profile picture](https://avatars.githubusercontent.com/u/168507222?v=4)](https://github.com/Hey-soo)
+#### Hey-soo(이혜수)
+* 유영희교수님?
+* 엘리트
