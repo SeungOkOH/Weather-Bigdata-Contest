@@ -6,6 +6,29 @@
 
 
 # 2. Teams
+<p align="center">
+  <a href="https://github.com/wldms25">
+    <img src="https://avatars.githubusercontent.com/u/147844220?v=4" width="150" height="150" alt="Jieun Shin's profile picture">
+  </a>
+  <a href="https://github.com/Hey-soo">
+    <img src="https://avatars.githubusercontent.com/u/168507222?v=4" width="150" height="150" alt="Hey-soo's profile picture">
+  </a>
+</p>
+<p align="center">
+  <strong>Jieun Shin (신지은)</strong><br>
+  Data Preprocessing, Feature Engineering
+</p>
+<p align="center">
+  <strong>Hey-soo (헤이수)</strong><br>
+  유연한 솔루션?, 엔지니어
+</p>
+
+
+
+
+
+
+# 2. Teams
 
 [![Jieun Shin's profile picture](https://avatars.githubusercontent.com/u/147844220?v=4)](https://github.com/wldms25)
 #### Jieun Shin (신지은)
