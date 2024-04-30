@@ -6,5 +6,9 @@
 
 
 # 2. Teams
-![(https://github.com/SeungOkOH/Weather-Bigdata-Contest/assets/152361965/f442c46e-3897-4798-8cb5-95e42ab54a7c)](https://github.com/wldms25)
+
+[![Jieun Shin's profile picture](https://avatars.githubusercontent.com/u/147844220?v=4)](https://github.com/wldms25)
 #### Jieun Shin (신지은)
+
+* Data Preprocessing
+* Feature Engineering
