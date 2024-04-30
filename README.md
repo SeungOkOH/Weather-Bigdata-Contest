@@ -10,5 +10,5 @@
 [![Jieun Shin's profile picture](https://avatars.githubusercontent.com/u/147844220?v=4)](https://github.com/wldms25)
 #### Jieun Shin (신지은)
 
-* Data Preprocessing
-* Feature Engineering
+* 연세대학교 대기과학과 해양방
+* 1번 하실?
