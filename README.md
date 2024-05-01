@@ -26,17 +26,26 @@
 
 
 
-
-
 # 2. Teams
-
-[![Jieun Shin's profile picture](https://avatars.githubusercontent.com/u/147844220?v=4)](https://github.com/wldms25)
-#### Jieun Shin (신지은)
-
-* 연세대학교 대기과학과 해양방
-* 엘리트
-
-[![Hey-soo's profile picture](https://avatars.githubusercontent.com/u/168507222?v=4)](https://github.com/Hey-soo)
-#### Hey-soo(이혜수)
-* 유영희교수님?
-* 엘리트
+<table style="text-align:center">
+    <tr height="140px">
+      <td>
+         <a href="https://github.com/wldms25">
+            <img src="https://avatars.githubusercontent.com/u/147844220?v=4" width="150" height="150" alt="Jieun Shin's profile picture"/>
+         </a>
+      </td>
+      <td>
+         <a href="https://github.com/Hey-soo">
+            <img src="https://avatars.githubusercontent.com/u/168507222?v=4" width="150" height="150" alt="Hey-soo's profile picture"/>
+         </a>
+      </td>
+   </tr>
+   <tr>
+       <td><a href="#"><b>Jieun Shin (신지은)</b></a></td>
+       <td><a href="https://github.com/Hey-soo"><b>Hey-soo (이혜수)</b></a></td>
+   </tr>
+   <tr>
+       <td>Data Preprocessing, Feature Engineering</td>
+       <td>Flexible Solutions, Engineer</td>
+   </tr>
+</table>
