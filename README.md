@@ -25,18 +25,26 @@
             <img src="https://github.com/SeungOkOH.png" width="150" height="150" alt="Seungok Oh's profile picture"/>
          </a>
       </td>
+      <td>
+         <a href="https://github.com/JeongwooCheon">
+            <img src="https://avatars.githubusercontent.com/u/168607427?v=4" width="150" height="150" alt="Jeongwoo Cheon's profile picture"/>
+         </a>
+      </td>
    </tr>
    <tr>
        <td><a href="#"><b>Jieun Shin (신지은)</b></a></td>
        <td><a href="https://github.com/Hey-soo"><b>Hey-soo (이혜수)</b></a></td>
        <td><a href="https://github.com/SeungOkOH"><b>Seungok Oh (오승옥)</b></a></td>
+       <td><a href="https://github.com/JeongwooCheon"><b>Jeongwoo Cheon (천정우)</b></a></td>
    </tr>
    <tr>
-       <td>Data Preprocessing, Feature Engineering</td>
-       <td>Flexible Solutions, Engineer</td>
+       <td>Role1, Role2</td>
+       <td>Role1, Role2</td>
+       <td>Role1, Role2</td>
        <td>Role1, Role2</td>
    </tr>
 </table>
+
 
 
 
