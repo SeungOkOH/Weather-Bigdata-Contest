@@ -32,10 +32,10 @@
       </td>
    </tr>
    <tr>
-       <td><a href="#"><b>Jieun Shin (신지은)</b></a></td>
-       <td><a href="https://github.com/Hey-soo"><b>Hey-soo (이혜수)</b></a></td>
-       <td><a href="https://github.com/SeungOkOH"><b>Seungok Oh (오승옥)</b></a></td>
-       <td><a href="https://github.com/JeongwooCheon"><b>Jeongwoo Cheon (천정우)</b></a></td>
+       <td><a href="#"><b>JiEun Shin (신지은)</b></a></td>
+       <td><a href="https://github.com/Hey-soo"><b>HyeSoo Lee (이혜수)</b></a></td>
+       <td><a href="https://github.com/SeungOkOH"><b>SeungOk Oh (오승옥)</b></a></td>
+       <td><a href="https://github.com/JeongwooCheon"><b>JeongWoo Cheon (천정우)</b></a></td>
    </tr>
    <tr>
        <td>Role1, Role2</td>
