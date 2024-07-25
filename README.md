@@ -38,9 +38,9 @@
        <td><a href="https://github.com/JeongwooCheon"><b>JeongWoo Cheon (천정우)</b></a></td>
    </tr>
    <tr>
-       <td>감쟈, Role2</td>
-       <td>캐나디언, Role2</td>
-       <td>산공베이비, Role2</td>
-       <td>구닌, Role2</td>
+       <td>변수생성, Role2</td>
+       <td>자료조사, Role2</td>
+       <td>모델링, Role2</td>
+       <td>변수생성, Role2</td>
    </tr>
 </table>
