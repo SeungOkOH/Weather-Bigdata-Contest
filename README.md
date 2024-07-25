@@ -38,9 +38,9 @@
        <td><a href="https://github.com/JeongwooCheon"><b>JeongWoo Cheon (천정우)</b></a></td>
    </tr>
    <tr>
-       <td>변수생성, Role2</td>
-       <td>자료조사, Role2</td>
-       <td>모델링, Role2</td>
-       <td>변수생성, Role2</td>
+       <td>변수생성, 발표자료</td>
+       <td>자료조사, 웹디자인</td>
+       <td>모델링, 팀장</td>
+       <td>자료조사, 변수생성</td>
    </tr>
 </table>
